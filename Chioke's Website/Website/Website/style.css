@@ -1,0 +1,77 @@
+body 
+{
+        /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#4a00fb+0,e600ff+100 */
+    background: #4a00fb; /* Old browsers */
+    background: -moz-linear-gradient(45deg, #4a00fb 0%, #e600ff 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(45deg, #4a00fb 0%,#e600ff 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(45deg, #4a00fb 0%,#e600ff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4a00fb', endColorstr='#e600ff',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size: 12px;
+}
+
+a {color: blue; font-family: Verdana, Arial, Helvetica, sans-serif;   text-decoration: none}
+a:visited {color: darkblue; text-decoration: none}
+a:hover {color: lightblue; text-decoration: underline}
+
+h1 
+{
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size: 24px; 
+    
+}
+
+h2 
+{  
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size: 18px;
+}
+
+p  
+{
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size: 12px;
+}
+
+.small {
+    font-size: 8px;
+    font-style: italic
+        
+}
+
+#header {
+width: 180px;
+height: 50px;
+background: blue;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+  
+  
+  
